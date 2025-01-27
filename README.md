@@ -1,6 +1,6 @@
 # Similarity-Attributes
 ---
-Penggunaan Similarity Measure dalam melakukan pencarian atau pencocokan atribut telah banyak digunakan oleh perusahaan dalam administrasi transaksi. Tentunya ada beberapa algoritma perhitungan berdasarkan jenis metodenya antara lain:
+<p align="justify">Penggunaan Similarity Measure dalam melakukan pencarian atau pencocokan atribut telah banyak digunakan oleh perusahaan dalam administrasi transaksi. Tentunya ada beberapa algoritma perhitungan berdasarkan jenis metodenya antara lain:</p>
 * Edit-based
   Merupakan algoritma yang melakukan perhitungan perubahan huruf melalui operasi (Insertion/Deletion/Substitution/Transposition).
   Terdapat beberapa algoritma perhitungan, antara lain:
@@ -23,6 +23,6 @@ Adapun data dummy yang akan digunakan sebagai contoh, berikut struktur data yang
 !["Data Structure"](https://github.com/pinantyo/Similarity-Attributes/blob/main/assets/Data.png?raw=true)
 
 
-Bila menggunakan algoritma clustering K-Means, berdasarkan kebutuhan bisnis, perlunya bobot yang diberikan untuk masing-masing atribut. Hal ini membuat perlunya pengubahan algoritma K-Means untuk menerima pembobotan tersebut. Adapun algoritma yang dirancang adalah sebagai berikut:
+<p align="justify">Bila menggunakan algoritma clustering K-Means, berdasarkan kebutuhan bisnis, perlunya bobot yang diberikan untuk masing-masing atribut. Hal ini membuat perlunya pengubahan algoritma K-Means untuk menerima pembobotan tersebut. Adapun algoritma yang dirancang adalah sebagai berikut:</p>
 
 !["Algorithm Structure"](https://github.com/pinantyo/Similarity-Attributes/blob/main/assets/Model.png?raw=true)
